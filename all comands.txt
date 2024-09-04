@@ -1,0 +1,56 @@
+General
+
+- az login: Log in to Azure
+- az logout: Log out of Azure
+- az account show: Show the current account
+- az account list: List all accounts
+- az configure: Configure Azure CLI settings
+
+Resource Group
+
+- az group create: Create a resource group
+- az group list: List resource groups
+- az group show: Show a resource group
+- az group delete: Delete a resource group
+
+Virtual Machine
+
+- az vm create: Create a virtual machine
+- az vm list: List virtual machines
+- az vm show: Show a virtual machine
+- az vm start: Start a virtual machine
+- az vm stop: Stop a virtual machine
+- az vm delete: Delete a virtual machine
+Storage
+
+- az storage account create: Create a storage account
+- az storage account list: List storage accounts
+- az storage account show: Show a storage account
+- az storage container create: Create a storage container
+- az storage blob upload: Upload a blob to storage
+
+Networking
+
+- az network vnet create: Create a virtual network
+- az network vnet list: List virtual networks
+- az network vnet show: Show a virtual network
+- az network subnet create: Create a subnet
+- az network public-ip create: Create a public IP address
+
+Security
+
+- az security group create: Create a network security group
+- az security group list: List network security groups
+- az security group show: Show a network security group
+- az security rule create: Create a security rule
+
+Monitor
+
+- az monitor metrics list: List metrics for a resource
+- az monitor logs show: Show logs for a resource
+
+Other
+
+- az provider show: Show Azure provider information
+- az extension show: Show Azure CLI extensions
+- az feedback: Provide feedback on Azure CLI
